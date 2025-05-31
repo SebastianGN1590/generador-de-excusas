@@ -1,0 +1,30 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background-color: rgb(143, 186, 235);
+   
+}
+
+h1{
+    color: white;
+    font-family: "Balsamiq Sans", sans-serif;
+
+}
+    
+
+
+p{
+    color: white;
+    font-size: 30px;
+    font-family: "Balsamiq Sans", sans-serif;
+}
+
+button{
+    background-color: rgb(237, 61, 61);
+    border-radius: 3px;
+    padding: 10px;
+    font-family: "Balsamiq Sans", sans-serif;
+    border-color: rgb(222, 50, 50);
+    
+}
+
